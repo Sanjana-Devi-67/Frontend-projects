@@ -7,7 +7,7 @@ The Spotify Clone (HTML and CSS only) is a static webpage replicating the user i
 
 # Simple Todo List (No CSS)
 The Simple Todo List is a straightforward and functional task management application built purely with HTML and JavaScript, focusing on core functionality without any styling. Users can add, mark as completed, and delete tasks, making it a perfect lightweight project for practicing JavaScript basics.
-=======
+
 # Weather UI - React App
 
 A simple React-based weather application that allows users to enter a city name and view the current weather conditions using an external API.
