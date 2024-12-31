@@ -5,9 +5,6 @@ The Simon Says Game is a classic memory-based game where players replicate a seq
 # Spotify Clone (HTML and CSS Only)
 The Spotify Clone (HTML and CSS only) is a static webpage replicating the user interface of the popular music streaming platform. This project focuses purely on layout and styling, using HTML for structure and CSS for design. It serves as a great exercise for mastering responsive design, grid layouts, and typography without incorporating interactivity.
 
-# Simple Todo List (No CSS)
-The Simple Todo List is a straightforward and functional task management application built purely with HTML and JavaScript, focusing on core functionality without any styling. Users can add, mark as completed, and delete tasks, making it a perfect lightweight project for practicing JavaScript basics.
-
 # Weather UI - React App
 
 A simple React-based weather application that allows users to enter a city name and view the current weather conditions using an external API.
